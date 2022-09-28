@@ -1,0 +1,152 @@
+.img{
+    justify-content: center;
+    display: flex;
+    background: url(./images/camp.jpg);
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 750px;
+    gap: 90px;
+    top: 90px
+}
+
+.white{
+  background-color: white;
+  height: 500px;
+  width: 70px;
+}
+
+.imm{
+  position: relative;
+  left: 30px;
+  top: -410px;
+  width: 700px;
+  height: 500px;
+}
+
+.text{
+  position: relative;
+  top: -300px;
+  left: 100px;
+}
+
+.vec1{
+  position: relative;
+  top: -230px;
+  left: 100px;
+}
+
+.vt1{
+  position: relative;
+  top: -280px;
+  left: 173px;
+}
+
+.vec2{
+  position: relative;
+  top: -255px;
+  left: 98px;
+  width: 48px;
+  height: 48px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+.vt2{
+  position: relative;
+  top: -310px;
+  left: 173px;
+}
+
+.vec3{
+  position: relative;
+  top: -270px;
+  left: 98px;
+  width: 48px;
+  height: 29px;
+}
+
+.vt3{
+  position: relative;
+  top: -315px;
+  left: 173px;
+}
+
+.vec4{
+  position: relative;
+  top: -270px;
+  left: 98px;
+  width: 48px;
+  height: 29px;
+}
+
+.vt4{
+  position: relative;
+  top: -315px;
+  left: 173px;
+}
+
+.vec6{
+  position: relative;
+  top: -598px;
+  left: 444px;
+}
+
+.vt6{
+  position: relative;
+  top: -650px;
+  left: 520px;
+}
+
+.vec7{
+  position: relative;
+  height: 20px;
+  width: 21px;
+  left: 459px;
+  top: -637px;
+
+}
+
+.vec77{
+  position: relative;
+  height: 43px;
+  width: 44px;
+  left: 422px;
+  top: -625px;
+}
+
+.vt7{
+  position: relative;
+  top: -670px;
+  left: 520px;
+}
+
+.vec8{
+  position: relative;
+  height: 43px;
+  width: 44px;
+  left: 445px;
+  top: -648px;
+}
+
+.vt8{
+  position: relative;
+  top: -695px;
+  left: 520px;
+}
+
+.text2{
+  position: relative;
+  top: -690px;
+  left: 10px;
+  width: 1000px;
+  height: 80px;
+}
+
+.al{
+  position: relative;
+  left: 100px;
+  top: -78px;
+}
